@@ -13,6 +13,7 @@ gem 'test-unit'
 gem 'actionmailer'
 gem 'sinatra-activerecord'
 gem 'mail'
+gem 'actionmailer'
 
 group :development, :test do
   	gem 'rack-test'
